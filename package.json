@@ -13,7 +13,8 @@
 	},
 	"dependencies": {
 		"@deno/kv": "^0.12.0",
-		"svelte-adapter-deno": "^0.9.1"
+		"svelte-adapter-deno": "^0.9.1",
+		"uuid": "^11.1.0"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^6.0.0",
